@@ -1,0 +1,15 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "description": "A chat app using Socket.io Node.js and AngularJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ybouhjira/chat-app.git"
+  },
+  "author": "ybouhjira",
+  "license": "BSD"
+}
